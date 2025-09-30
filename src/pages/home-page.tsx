@@ -1,13 +1,5 @@
-import HeroSection from "../components/hero-section";
-import NavBar from "../components/navbar";
-
 const HomePage = () => {
-  return (
-    <div className="">
-      <NavBar />
-      <HeroSection />
-    </div>
-  );
+  return <h1>JobWin</h1>;
 };
 
 export default HomePage;
