@@ -1,0 +1,1 @@
+React + Typescript frontend client for "JobWin" job portal.
